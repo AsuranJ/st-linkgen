@@ -30,4 +30,4 @@ class Config(object):
     # Your gdrive index url (Important)
     INDEX_URL = os.environ.get("INDEX_URL", "")
     # Your web video player url check 'https://github.com/Jigarvarma2005/video-player'
-    VIDEO_PLAYER_URL = os.environ.get("VIDEO_PLAYER_URL", "jv-stream.herokuapp.com")
+    VIDEO_PLAYER_URL = os.environ.get("VIDEO_PLAYER_URL", "asuvpplayer.herokuapp.com")
